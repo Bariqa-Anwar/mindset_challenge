@@ -4,7 +4,7 @@ import os
 from io import BytesIO
 
 # Set up the app
-st.set_page_config(page_title="Data Cleaner & Transformer", layout='wide')
+st.set_page_config(page_title="Data Wrangler", layout='wide')
 
 # Custom CSS for contrast UI
 st.markdown(
