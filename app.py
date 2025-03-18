@@ -36,7 +36,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.markdown("<div class='main-title'>Data Cleaner & Transformer</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>Data Wrangler</div>", unsafe_allow_html=True)
 st.write("### Clean, Analyze, and Transform Your Data")
 
 # Sidebar sections
